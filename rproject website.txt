@@ -1,0 +1,4 @@
+http://www.cran.r-project.org/
+http://varianceexplained.org/RData/
+http://r4ds.had.co.nz/
+http://www.crcpress.com/product/isbn/9781439875407
