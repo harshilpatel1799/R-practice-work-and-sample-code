@@ -1,15 +1,15 @@
 #######################
-# HW1 Help - STAT 3201#
+# READING DATA BY HARSHIL PATEL#
 #######################
 
 #get the working directory
 getwd()
 
 #set the working directory. you can change it if you like; the file, along w/ any output, will now save to this location
-setwd("G:/OSU/2018 AU/STAT 3201/Assignments and Solutions")
+setwd("G:/OSU/FOLDERNAME/CLASS/HMK")
 
 #bring the data into R and name it; here, I've (uncreatively) chosen to call it q1.data
-q1.data <- read.csv("STAT 3201 HW1 Question 1 Data.csv", header=TRUE)
+q1.data <- read.csv("dATASET.csv", header=TRUE)
 #note - if you don't set the working directory you can type the entire file path inside the "" above
 #header = TRUE tells R the first row contains the names of the variables
 
